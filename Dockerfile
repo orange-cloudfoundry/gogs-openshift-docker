@@ -2,7 +2,7 @@ FROM centos:7
 
 MAINTAINER Erik Jacobs <erikmjacobs@gmail.com>
 
-ARG GOGS_VERSION="0.11.86"
+ARG GOGS_VERSION="0.11.34"
 
 LABEL name="Gogs - Go Git Service" \
       vendor="Gogs" \
